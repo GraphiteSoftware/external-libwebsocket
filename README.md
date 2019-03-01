@@ -1,4 +1,4 @@
-This project contains a pre-built jars for the AndroidSync
+This project contains a pre-built jar for the AndroidSync
 project by koush:
 
   https://github.com/koush/AndroidAsync
